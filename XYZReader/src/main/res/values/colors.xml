@@ -18,8 +18,12 @@
 <resources>
     <color name="photo_placeholder">#f50000</color>
 
-    <color name="theme_primary">#38804b</color>
-    <color name="theme_primary_dark">#04561A</color>
-    <color name="theme_accent">#ff9d00</color>
-    <color name="indigo">#282a81</color>
+    <color name="colorPrimary">#38804b</color>
+    <color name="colorPrimaryDark">#04561A</color>
+    <color name="colorAccent">#ff9d00</color>
+
+    <color name="textColorPrimary">#034314</color>
+    <color name="textColorSecondary">#282a81</color>
+
+
 </resources>

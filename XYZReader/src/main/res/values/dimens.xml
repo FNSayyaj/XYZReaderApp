@@ -2,10 +2,55 @@
     <!-- detail -->
     <dimen name="detail_title_text_size">32sp</dimen>
     <dimen name="detail_body_text_size">22sp</dimen>
+    <dimen name="detail_see_more_text_size">15sp</dimen>
+
+    <dimen name="detail_coordinator_layout_height">168dp</dimen>
+    <dimen name="detail_linear_layout_top_margin">168dp</dimen>
+
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="detail_up_image_view_width">56dp</dimen>
+
+    <dimen name="detail_tool_bar_top_margin">56dp</dimen>
+
+
+
+
+
+    <!-- lis -->
+    <dimen name="list_app_bar_height">168dp</dimen>
+    <dimen name="list_tool_bar_height">56dp</dimen>
+
+    <dimen name="list_recyclerview_padding_left">4dp</dimen>
+    <dimen name="list_recyclerview_padding_right">4dp</dimen>
+    <dimen name="list_recyclerview_padding_bottom">28dp</dimen>
+
+    <dimen name="list_cardview_margin_top">4dp</dimen>
+    <dimen name="list_cardview_margin_bottom">4dp</dimen>
+    <dimen name="list_cardview_margin_left">4dp</dimen>
+    <dimen name="list_cardview_margin_right">4dp</dimen>
+
+    <dimen name="list_textview_article_title_padding_left">16dp</dimen>
+    <dimen name="list_textview_article_title_padding_top">16dp</dimen>
+    <dimen name="list_textview_article_title_padding_right">16dp</dimen>
+    <dimen name="list_textview_article_title_padding_bottom">16dp</dimen>
+
+    <dimen name="list_textview_article_subtitle_padding_left">16dp</dimen>
+    <dimen name="list_textview_article_subtitle_padding_right">16dp</dimen>
+    <dimen name="list_textview_article_subtitle_padding_bottom">16dp</dimen>
+
+
+
+
+    <!-- fab -->
+
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+    <dimen name="fab_layout_margin">16dp</dimen>
+
+    <!-- elevations -->
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="metabar_elevation">4dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
 
 </resources>
